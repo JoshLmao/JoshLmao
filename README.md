@@ -19,7 +19,7 @@
 <a href="https://github.com/joshlmao">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br/>
+<br/><br/>
 
 A passionate games developer, with a secret love for web development
 
