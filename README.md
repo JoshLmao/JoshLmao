@@ -10,18 +10,26 @@
 
 <img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=joshlmao&show_icons=true&theme=tokyonight">
 
+<!--
+Image icons are sourced from https://simpleicons.org/
+-->
 <a href="https://twitter.com/joshlmao">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Josh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joshshepherd-/">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Josh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/joshlmao">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Josh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br/><br/>
+<a href="https://reddit.com/u/joshlmao">
+   <img align "left" alt="Josh's Reddit account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<br/>
 
-A passionate games developer, with a secret love for web development
+A passionate games developer, with a secret love for web development. Interested in what I've made? Check out [the Projects page](https://joshlmao.com/#/projects) on my website!
+
+欢迎来到我的Github！如果你想问我一个问题，请发给我一个Twitter短信😁
 
 <!--
 **JoshLmao/JoshLmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
